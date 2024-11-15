@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am now also a visiting student of [TSAIL](https://ml.cs.tsinghua.edu.cn/), Tsinghua University, collaborating with [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Before that, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am now also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning(TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, collaborating with [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Before that, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data and tasks, and ultimately enabling free interaction with the real physical world. Recently, I am interested in expanding vision foundation models into 3D vision and medical image analysis. If you are interested in my work, please feel free to send me an email. 
+My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data and tasks, and ultimately enabling flexible interactions with the real physical world. Recently, I am interested in expanding vision foundation models into 3D vision and medical image analysis. If you are interested in my work, please feel free to send me an email. 
 
 
 # 🔥 News
@@ -55,8 +55,8 @@ Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* Wuhan University Outstanding Bachelor's Degree Thesis.
-- *2023.11* Lei Jun Computer Science Undergraduate Scholarship.
+- *2024.06* Outstanding Bachelor's Degree Thesis in Wuhan University.
+- *2023.11* Lei Jun Undergraduate Scholarship in Computer Science.
 - *2023.08* First Prize in National College Student Information Security Contest.  
 
 # 💻 Internships
