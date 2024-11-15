@@ -25,14 +25,14 @@ My long-term research goal is to build vision foundation models unifying underst
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Our paper [Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) is accepted by *MIA 2024 AIFM Special Issue*.  
 
-# 📝 Selected Publications(*</sup> denotes equal contribution. †</sup> denotes corresponding author)
+# 📝 Selected Publications(* denotes equal contribution. † denotes corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images
 
-Wenqiang Zu, **Shenghao Xie*</sup>**, Qing Zhao, Guoqi Li, Lei Ma<sup>
+Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma<sup>
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
 [**Code**](https://github.com/zuwenqiang/EPT)
