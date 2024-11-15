@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://menjieliefu.com/legend/zbjhf70mw00ccazkyitu12c9ct67abdr) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/info/1017/1040.htm). I am also a visiting student of [TSAIL](https://ml.cs.tsinghua.edu.cn/), Tsinghua University, collaborating with [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Before that, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am also a visiting student of [TSAIL](https://ml.cs.tsinghua.edu.cn/), Tsinghua University, collaborating with [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Before that, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
 My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data and tasks, and ultimately enabling free interaction with the real physical world. Recently, I am interested in expanding vision foundation models into 3D vision and medical image analysis. If you are interested in my work, please feel free to send me an email. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
 
 # 📝 Publications 
 
