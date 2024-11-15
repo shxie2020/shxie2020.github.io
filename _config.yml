@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shenghao Xie"
-description              : "Shenghao Xie's Homepage"
+description              : "In pursuit of vision intelligence."
 repository               : "shenghaoxie2020/shenghaoxie2020.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/shenghaoxie2020"
   google_plus      :
   keybase          :
   instagram        :
