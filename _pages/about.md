@@ -23,7 +23,7 @@ My long-term research goal is to build vision foundation models unifying underst
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our paper "[Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by *MIA 2024 AIFM Special Issue*.  
+- *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 AIFM Special Issue**.  
 
 # 📝 Selected Publications
 (__*__ denotes equal contribution. __†__ denotes corresponding author. View the full paper list on Google Scholar.)
@@ -57,7 +57,7 @@ Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 # 🎖 Honors and Awards
 - *2024.06* Outstanding Bachelor's Degree Thesis of Wuhan University.
 - *2023.11* Lei Jun Undergraduate Scholarship of Computer Science.
-- *2023.08* First Prize in National College Student Information Security Contest.  
+- *2023.08* First Prize of National College Student Information Security Contest.  
 
 # 💻 Internships
 - *2023.09 - 2024.09*, research intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), Beijing, China.
