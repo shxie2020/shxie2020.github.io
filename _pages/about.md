@@ -26,7 +26,7 @@ My long-term research goal is to build vision foundation models unifying underst
 - *2024.10*: &nbsp;🎉🎉 Our paper "[Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by *MIA 2024 AIFM Special Issue*.  
 
 # 📝 Selected Publications
-(* denotes equal contribution. † denotes corresponding author.)
+(***** denotes equal contribution. **†** denotes corresponding author.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
