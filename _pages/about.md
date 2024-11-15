@@ -23,23 +23,22 @@ My long-term research goal is to build vision foundation models unifying underst
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+- *2024.10*: &nbsp;🎉🎉 Our paper [Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) is accepted by *MIA 2024 AIFM Special Issue*.  
 
-# 📝 Publications 
+# 📝 Selected Publications(*</sup> denotes equal contribution. †</sup> denotes corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Wenqiang Zu, **Shenghao Xie*</sup>**, Qing Zhao, Guoqi Li, Lei Ma<sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Code**](https://github.com/zuwenqiang/EPT)
+- A new PEFT method, try to concat vision prompts with channels to achieve better adaptabilities of the vision foundation model!
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
