@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 Biography
-Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am now also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning(TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, collaborating with [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Before that, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am now also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, collaborating with [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Before that, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data and tasks, and ultimately enabling flexible interactions with the real physical world. Recently, I am interested in expanding vision foundation models into 3D vision and medical image analysis. If you are interested in doing interesting research with me, please feel free to send me an email. 
+My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data (e.g., 2D, 3D images, videos etc.) and tasks (e.g., Segmentation, Detection, Caption etc.), ultimately enabling flexible interactions with the real physical world. Recently, I am interested in expanding vision foundation models into 3D vision and medical image analysis. If you are interested in doing interesting research with me, please feel free to send me an email. 
 
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Our paper "[Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by *MIA 2024 AIFM Special Issue*.  
 
 # 📝 Selected Publications
-(__*__ denotes equal contribution. __†__ denotes corresponding author. View the full list of papers on Google Scholar.)
+(__*__ denotes equal contribution. __†__ denotes corresponding author. View the full paper list on Google Scholar.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,9 +55,9 @@ Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Bachelor's Degree Thesis in Wuhan University.
-- *2023.11* Lei Jun Undergraduate Scholarship in Computer Science.
+- *2024.06* Outstanding Bachelor's Degree Thesis of Wuhan University.
+- *2023.11* Lei Jun Undergraduate Scholarship of Computer Science.
 - *2023.08* First Prize in National College Student Information Security Contest.  
 
 # 💻 Internships
-- *2023.09 - 2024.09*, research intern, [BAAI](https://www.baai.ac.cn/), China.
+- *2023.09 - 2024.09*, research intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), Beijing, China.
