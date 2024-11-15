@@ -41,7 +41,7 @@ My long-term research goal is to build vision foundation models unifying underst
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/EPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images**
