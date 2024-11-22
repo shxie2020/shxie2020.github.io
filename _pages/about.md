@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 Biography
-Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am now also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, collaborating with [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Before that, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am now also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, collaborating with [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data (e.g., 2D, 3D images, videos etc.) and tasks (e.g., Segmentation, Detection, Caption etc.), ultimately enabling flexible interactions with the real physical world. Recently, I am interested in expanding vision foundation models into 3D vision and medical image analysis. If you are interested in doing interesting research with me, please feel free to send me an email. 
+My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data (e.g., 2D, 3D images, videos etc.) and tasks (e.g., Segmentation, Detection, Caption etc.), ultimately enabling flexible interactions with the real physical world. Recently, I am interested in expanding vision foundation models into 3D vision and medical image analysis. If you are interested in doing research with me, please feel free to send me an email. 
 
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 AIFM Special Issue**.  
 
 # 📝 Selected Publications
-(__*__ denotes equal contribution. __†__ denotes corresponding author. View the full paper list on Google Scholar.)
+(__*__ denotes equal contribution. __†__ denotes corresponding author. View the full publication list on my google scholar.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
