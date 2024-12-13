@@ -50,7 +50,7 @@ Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
 [**Code**](https://github.com/zuwenqiang/EPT)
-- A new PEFT method, let's try to concat vision prompts with channels to achieve better adaptabilities of the vision foundation model!
+- A new PEFT method, let's try to concat vision prompts with channels to achieve better downstream adaptabilities for the vision foundation model!
 </div>
 </div>
 
