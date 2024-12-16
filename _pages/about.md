@@ -19,7 +19,7 @@ redirect_from:
 # 👨‍🎓 Biography
 Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am now also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, collaborating with [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, advised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data (e.g., 2D, 3D images, videos etc.) and tasks (e.g., Segmentation, Detection, Caption etc.), ultimately enabling flexible interactions with the real physical world. Recently, I am interested in developing vision foundation models in 3D vision and medical image analysis for social good. If you are interested in discussing with me, please feel free to send me an email. 
+My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data (e.g., 2D, 3D images, videos etc.) and tasks (e.g., Segmentation, Detection, Caption etc.), ultimately enabling flexible interactions with the real physical world. Recently, I am interested in developing foundation models in 3D vision and medical image analysis for social good. If you are interested in discussing with me, please feel free to send me an email. 
 
 
 # 🔥 News
@@ -50,14 +50,14 @@ Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
 [**Code**](https://github.com/zuwenqiang/EPT)
-- A new PEFT method, let's try to concat vision prompts with channels to achieve better downstream adaptabilities for the vision foundation model!
+- A new PEFT method, let's try to concat vision prompts with channels to achieve better downstream adaptabilities for vision foundation models!
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Bachelor's Degree Thesis of Wuhan University.
-- *2023.11* Lei Jun Undergraduate Scholarship of Computer Science.
-- *2023.08* First Prize of National College Student Information Security Contest.  
+- *2024.06* Outstanding Bachelor's Degree Thesis at Wuhan University.
+- *2023.11* Lei Jun Computer Science Undergraduate Scholarship.
+- *2023.08* First Prize at National College Student Information Security Contest.  
 
 # 💻 Internships
 - *2023.09 - 2024.09*, research intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), Beijing, China. Mentor: Lei Ma, Tiejun Huang.
