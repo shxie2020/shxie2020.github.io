@@ -36,7 +36,7 @@ My long-term research goal is to build vision foundation models unifying underst
 **Shenghao Xie**, Wenqiang Zu, Mingyang Zhao, Duo Su, Shilong Liu, Ruohua Shi, Guoqi Li, Shanghang Zhang, Lei Ma
 
 [**Paper**](https://arxiv.org/abs/2410.22217) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:qjMakFHDy7sC'></span></strong>
-[**Repo**](https://github.com/EmmaSRH/ARVFM)
+[**Repo**](https://github.com/shxie2020/Awesome-UGVFM/)
 - The first comprehensive survey to dive deep into the trend of unifying understanding and generation in vision foundation models from the autoregression perspective.
 </div>
 </div>
