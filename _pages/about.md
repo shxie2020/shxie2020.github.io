@@ -28,7 +28,7 @@ My long-term research goal is to build vision foundation models unifying underst
 # 📝 Selected Publications
 (__*__ denotes co-first author. __†__ denotes corresponding author. View the full publication list on my google scholar.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/UGVFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective**
