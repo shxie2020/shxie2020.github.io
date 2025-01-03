@@ -19,7 +19,7 @@ redirect_from:
 # 👨‍🎓 Biography
 Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am now also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL) Group](https://ml.cs.tsinghua.edu.cn/), Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data (e.g., 2D, 3D images, videos etc.) and tasks (e.g., Segmentation, Detection, Caption etc.), ultimately enabling flexible interactions with the real physical world. Recently, I am interested in developing foundation models in general 3D vision and medical image analysis for social good. If you are interested in discussing with me, please feel free to send me an email. 
+My long-term research goal is to build vision foundation models unifying understanding and generation across various types of data (*e.g.*, 2D, 3D images, videos *etc.*) and tasks (*e.g.*, Generation, Segmentation, Caption *etc.*), ultimately enabling flexible interactions with the real physical world. Recently, I am interested in developing foundation models in general 3D vision and medical image analysis for social good. If you are interested in discussing with me, please feel free to send me an email. 
 
 
 # 🔥 News
