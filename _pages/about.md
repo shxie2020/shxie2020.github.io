@@ -21,11 +21,11 @@ Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academ
 
 My long-term research goal is to pursue the vision AGI and create social good. Recent interests have primarily focused on vision foundation models and their applications:
 
-· **Generalist Vision Foundation Model.** Beyond task-specific breakthroughs, I am devoted to design effective algorithms that enable foundation models to integrately process various vision data (*e.g.,* 2D, 3D images, and videos) and tasks (*e.g.,* both perception and generation), ultimately unlocking the vision scaling law and zero-shot generalization.
+**· Generalist Vision Foundation Model.** Beyond task-specific breakthroughs, I am devoted to design effective algorithms that enable foundation models to integrately process various vision data (*e.g.,* 2D, 3D images, and videos) and tasks (*e.g.,* both perception and generation), ultimately unlocking the vision scaling law and zero-shot generalization.
 
-· **Physics-informed 3D Vision.** At both the object-level and scene-level, I try to introduce physical constraints and accurate representations to 3D vision to support better world simulation and embodied interaction.
+**· Physics-informed 3D Vision.** At both the object-level and scene-level, I try to introduce physical constraints and accurate representations to 3D vision to support better world simulation and embodied interaction.
 
-· **Medical Image Analysis.** Based on the clinical requirement and imaging characteristic, I seek to develop AI systems to complementarily assist doctors in disease diagnosis.
+**· Medical Image Analysis.** Based on the clinical requirement and imaging characteristic, I seek to develop AI systems to complementarily assist doctors in disease diagnosis.
 
 If you are interested in discussing with me, please feel free to send me an email. 
 
