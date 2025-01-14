@@ -17,9 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 Biography
-Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am now also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My long-term research goal is to develop vision foundation models unifying understanding and generation across various types of data (*e.g.*, 2D, 3D images, videos *etc.*) and tasks (*e.g.*, Generation, Segmentation, Caption *etc.*), ultimately enabling flexible interactions with the real physical world. Recently, I am interested in building foundation models in general 3D vision and medical image analysis for social good. If you are interested in discussing with me, please feel free to send me an email. 
+My long-term research goal is to pursue vision AGI and create social good. Recent interests have primarily focuses on vision foundation models and their applications:
+
+· **Generalist Vision Foundation Model.** Beyond task-specific breakthroughs, I am devoted to design effective algorithms that enable foundation models to integrately process various vision data (*e.g.,* 2D, 3D images, and videos) and tasks (*e.g.,* both perception and generation), ultimately unlocking the vision scaling law and zero-shot generalization.
+
+· **Physics-informed 3D Vision.** At both the object-level and scene-level, I try to introduce physical constraints and accurate representations to 3D vision to support better world simulation and embodied interaction.
+
+· **Medical Image Analysis.** Based on the clinical requirement and imaging characteristic, I seek to develop AI systems to complementarily assist doctors in the disease diagnosis.
+
+If you are interested in discussing with me, please feel free to send me an email. 
 
 
 # 🔥 News
