@@ -21,11 +21,11 @@ Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academ
 
 My long-term research goal is to pursue the vision AGI and create social good. Recent interests have primarily focused on vision foundation models, as well as their applications in medical AI:
 
-**· Generalist Vision Foundation Model.** Beyond the task-specific breakthrough, I am devoted to design algorithms that enable foundation models to integrately process various vision data (*e.g.,* 2D, 3D, and videos) and tasks (*e.g.,* both perception and generation), ultimately unlocking vision scaling law and zero-shot generalization.
+**· Generalist Vision Foundation Model.** Beyond the task-specific breakthrough, I am devoted to construct foundation models to integrately process various vision data (*e.g.,* 2D, 3D, and videos) and tasks (*e.g.,* both perception and generation), ultimately unlocking vision scaling law and zero-shot generalization.
 
-**· Spatial-Temporal Vision Intelligence.** In addition to 2D, the real world is largely composed of 3D, videos, and 4D. I seek to discover a more effective and physics-constrained representation to enhance the autonomous reasoning and embodied interaction capability of vision foundation models on both spatial and temporal dimensions.      
+**· Spatial-Temporal Vision Intelligence.** Scaling up is still not enough, vision foundation models also need to acquire autonomous reasoning and embodied interaction capabilities, especially in higher spatial-temporal dimensions beyond 2D, *e.g.,* 3D, videos, and 4D. To achieve this, I seek to design data compression algorithms with more effective representations and physical constraints.     
 
-**· Medical Image Analysis.** Based on the clinical requirement and imaging characteristic, I want to develop AI systems to complementarily assist doctors in healthcare.
+**· Medical Image Analysis.** AI is powerful today and should be used for social good, *e.g.,* healthcare. I also develop vision foundation models specifically based on clinical requirements and imaging characteristics to assist doctors complementarily.
 
 If you are interested in discussing with me, please feel free to send me an email. 
 
