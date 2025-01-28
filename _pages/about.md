@@ -21,9 +21,9 @@ Hello! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academ
 
 My long-term research goal is to pursue the vision AGI and create social good. Recent interests have primarily focused on vision foundation models, as well as their applications in medical AI:
 
-**· Vision Foundation Model.** Firstly, I committed to unlock the scaling law and zero-shot generalization in vision foundation models by integrating various data (both spatial and temporal, *e.g.,* 2D, 3D, videos, and 4D) and tasks (both perception and generation, *e.g.,* segmentation, caption, translation, and editing). Then I seek to develop world models and embodied intelligence by interacting with the physical world to acquire autonomous reasoning capabilities.     
+**· Vision Foundation Model.** Firstly, I committed to unlock the scaling law and zero-shot generalization in vision foundation models by integrating various data (both spatial and temporal, *e.g.,* 2D, 3D, videos, and 4D) and tasks (both perception and generation, *e.g.,* segmentation, caption, translation, and editing). Then I develop world models and embodied intelligence by interacting with the physical world to acquire autonomous reasoning capabilities.     
 
-**· Medical Image Analysis.** On the one hand, I attempt to build the discriminative healthcare foundation model based on existing large-scale medical images to assist doctors complementarily (*e.g.,* early cancer detection). On the other hand, I hope to design effective generative algorithms for some data-scarce domains (*e.g.,* rare diseases) and corresponding clinically meaningful evaluation metrics.
+**· Medical Image Analysis.** I build the discriminative healthcare foundation model based on existing large-scale medical images to assist doctors complementarily (*e.g.,* early cancer detection). Moreover, I also design effective generative algorithms for some data-scarce domains (*e.g.,* rare diseases) and corresponding clinically meaningful evaluation metrics.
 
 If you are interested in discussing with me, please feel free to send me an email. 
 
