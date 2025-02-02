@@ -19,11 +19,11 @@ redirect_from:
 # 👨‍🎓 Biography
 Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My long-term research goal is to pursue the vision AGI and create social good. Recent interests have primarily focused on vision foundation models, as well as their applications in medical AI:
+My long-term research goal is to pursue the vision AGI and create corresponding social good. Recent interests have primarily focused on the vision foundation model, as well as its applications in AI4Medicine:
 
-**· Vision Foundation Model.** Firstly, I am devoted to unlock the scaling law and zero-shot generalization in vision foundation models by integrating various data (both spatial and temporal, *e.g.,* 2D, 3D, videos, and 4D) and tasks (both perception and generation, *e.g.,* segmentation, caption, translation, and editing). Then I seek to further develop world models and embodied intelligence by interacting with the physical world to acquire autonomous reasoning capabilities.     
+**· Vision Foundation Model.** Firstly, I am devoted to unlock the scaling law and zero-shot generalization in vision foundation models by integrating various data (both spatial and temporal, *e.g.,* 2D, 3D, videos, and 4D) and tasks (both perception and generation, *e.g.,* segmentation, caption, translation, and editing). Then I seek to further develop world models and embodied AI by interacting with the physical world to acquire cognition and reasoning capabilities.     
 
-**· Medical Image Analysis.** I attempt to build the discriminative healthcare foundation model based on existing large-scale medical images to assist doctors complementarily (*e.g.,* early cancer detection). Moreover, I also explore how to design effective generative algorithms and corresponding clinically meaningful evaluation metrics for some data-scarce domains (*e.g.,* rare diseases).
+**· Medical Image Analysis.** I attempt to build the discriminative healthcare foundation model based on existing large-scale medical images to assist doctors complementarily (*e.g.,* early cancer detection). Moreover, I also explore how to design effective generative algorithms with clinically meaningful evaluation metrics for some data-scarce domains (*e.g.,* rare diseases).
 
 I am open to both collaborations and discussions, please feel free to send me an email. 
 
