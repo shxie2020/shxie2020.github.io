@@ -21,9 +21,9 @@ Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy f
 
 My long-term research goal is to pursue the vision AGI and create corresponding social good. Recent interests have primarily focused on the vision foundation model, as well as its applications in AI4Healthcare:
 
-**· Vision Foundation Model.** Firstly, I am devoted to unlock the scaling law and zero-shot generalization in vision foundation models by integrating various data (both spatial and temporal, *e.g.,* 2D, 3D, videos, and 4D) and tasks (both perception and generation, *e.g.,* segmentation, caption, translation, and editing). Then I seek to further develop world models and embodied AI by interacting with the physical world to acquire cognition and reasoning capabilities.     
+**· Vision Foundation Model.** Firstly, I attempt to unlock the scaling law and zero-shot generalization in vision foundation models by integrating various data (both spatial and temporal, *e.g.,* 2D, 3D, videos, and 4D) and tasks (both perception and generation, *e.g.,* segmentation, caption, translation, and editing). Then I seek to further equip them with reasoning and emboddied interaction capabilities.     
 
-**· Medical Image Analysis.** I attempt to build the discriminative healthcare foundation model based on existing large-scale medical images to assist doctors complementarily (*e.g.,* early cancer detection). Moreover, I also explore how to design effective generative algorithms with clinically meaningful evaluation metrics for some data-scarce domains (*e.g.,* rare diseases).
+**· AI for Healthcare.** I am committed to addressing valuable medical problems and building AI systems that effectively assist doctors. Specifically, I develop data-driven discriminative models based on large-scale medical images (*e.g.,* early cancer detection). Moreover, I also explore how to leverage generative models with clinically meaningful evaluation metrics for some data-scarce scenarios (*e.g.,* rare diseases).
 
 I am open to both collaborations and discussions, please feel free to send me an email. 
 
