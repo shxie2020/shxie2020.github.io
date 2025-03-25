@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 Biography
-Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with Prof. Lei Ma and Prof. Tiejun Huang. I am also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, fortunately working with Prof. Lei Ma and Prof. Tiejun Huang. I am also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
 My long-term research goal is to pursue the vision AGI and create corresponding social good. Recent interests have primarily focused on the vision foundation model, as well as its applications in AI4Healthcare:
 
@@ -29,7 +29,7 @@ I am open to both collaborations and discussions, please feel free to send me an
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 AIFM Special Issue**.  
+- *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 AIFM Special Issue**.  
 
 # 📝 Selected Publications
 (__*__ denotes co-first author. __†__ denotes corresponding author. View the full publication list on my google scholar.)
@@ -50,13 +50,13 @@ I am open to both collaborations and discussions, please feel free to send me an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/EPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Embedded prompt tuning: Towards enhanced calibration of pretrained models for medical images**
+**Embedded Visual Prompt Tuning**
 
 Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
 [**Code**](https://github.com/zuwenqiang/EPT)
-- A new PEFT method, let's try to concat vision prompts with channels to achieve better downstream adaptabilities for vision foundation models!
+- Embed but not prepend, let's insert prompts into embedding channels! 
 </div>
 </div>
 
