@@ -17,15 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 Biography
-Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, fortunately working with Prof. Lei Ma and Prof. Tiejun Huang. I am also a visiting student of [Tsinghua Statistical Artificial Intelligence & Learning (TSAIL)](https://ml.cs.tsinghua.edu.cn/) Group, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://idm.pku.edu.cn/sysgk/sysrygk.htm) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/sysgk/sysrygk.htm). I am also a visiting student of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My long-term research goal is to pursue the vision AGI and create corresponding social good. Recent interests have primarily focused on the vision foundation model, as well as its applications in AI4Healthcare:
-
-**· Vision Foundation Model.** Firstly, I attempt to unlock the scaling law and zero-shot generalization in vision foundation models by integrating various data (both spatial and temporal, *e.g.,* 2D, 3D, videos, and 4D) and tasks (both perception and generation, *e.g.,* segmentation, caption, translation, and editing). Then I seek to further equip them with reasoning and emboddied interaction capabilities.     
-
-**· AI for Healthcare.** I am committed to addressing valuable medical problems and building AI systems that effectively assist doctors. Specifically, I develop data-driven discriminative models based on large-scale medical images (*e.g.,* early cancer detection). Moreover, I also explore how to leverage generative models with clinically meaningful evaluation metrics for some data-scarce scenarios (*e.g.,* rare diseases).
-
-I am open to both collaborations and discussions, please feel free to send me an email. 
+My research interests focus on **Multimodal Large Language Models (MLLMs)** with applications on **Embodied Intelligence** and **AI for Healthcare**. I am open to both collaborations and discussions, please feel free to send me an email. 
 
 
 # 🔥 News
@@ -33,20 +27,6 @@ I am open to both collaborations and discussions, please feel free to send me an
 
 # 📝 Selected Publications
 (__*__ denotes co-first author. __†__ denotes corresponding author. View the full publication list on my google scholar.)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/UGVFM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective**
-
-**Shenghao Xie**, Wenqiang Zu, Mingyang Zhao, Duo Su, Shilong Liu, Ruohua Shi, Guoqi Li, Shanghang Zhang, Lei Ma
-
-[**Paper**](https://arxiv.org/abs/2410.22217) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:qjMakFHDy7sC'></span></strong>
-[**Repo**](https://github.com/shxie2020/Awesome-UGVFM/)
-- The first comprehensive survey to dive deep into the trend of unifying understanding and generation in vision foundation models from the autoregression perspective.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/EPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,9 +41,10 @@ Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Bachelor's Degree Thesis at Wuhan University.
+- *2024.06* Wuhan University Outstanding Bachelor's Degree Thesis.
 - *2023.11* Lei Jun Computer Science Undergraduate Scholarship.
-- *2023.08* First Prize at National College Student Information Security Contest.  
+- *2023.08* National College Student Information Security Contest First Prize.  
 
 # 💻 Internships
+- *2025.01 - Now*, research intern, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai, China. Mentor: Shaoting Zhang.
 - *2023.09 - 2024.09*, research intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), Beijing, China. Mentor: Lei Ma, Tiejun Huang.
