@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shenghao Xie"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : State Key Laboratory of Multimedia Information Processing, School of Computer Science, 4th Floor, Founder Building, Peking University, Beijing, China
-  location         : 
+  bio              : "State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University, 4th Floor, Founder Building"
+  location         : "Haidian District, Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hcrnA7sAAAAJ&hl=zh-CN"
