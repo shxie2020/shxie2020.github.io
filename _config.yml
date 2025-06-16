@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shenghao Xie"
-description              : "All of machine learning is footnotes to Plato."
+description              : "Life is a Markov Chain."
 repository               : "shxie2020/shxie2020.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shenghao Xie"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Peking University"
-  location         : "Beijing, China"
+  bio              : 
+  location         : "State Key Laboratory of Multimedia Information Processing, School of Computer Science, 4th Floor, Founder Building, Peking University, Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hcrnA7sAAAAJ&hl=zh-CN"
