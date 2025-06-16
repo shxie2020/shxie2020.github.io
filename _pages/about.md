@@ -46,5 +46,5 @@ Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 - *2023.08* National College Student Information Security Contest First Prize.  
 
 # 💻 Internships
-- *2025.01 - Now*, research intern, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai, China. Mentor: Shaoting Zhang.
+- *2025.01 - Now*, research intern, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai, China. Mentor: Wenhui Lei, Shaoting Zhang.
 - *2023.09 - 2024.09*, research intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), Beijing, China. Mentor: Lei Ma, Tiejun Huang.
