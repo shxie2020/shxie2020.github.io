@@ -19,7 +19,7 @@ redirect_from:
 # 👨‍🎓 Biography
 Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://idm.pku.edu.cn/sysgk/sysrygk.htm) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/sysgk/sysrygk.htm). I am also a visiting student of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My research interests focus on **Multimodal Large Language Models (MLLMs)** with applications on **Embodied Intelligence** and **AI for Healthcare**. I am open to both collaborations and discussions, please feel free to send me an email. **Address: Room for State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University, 4th Floor, Founder Building.** 
+My research interests focus on **Multimodal Large Language Models (MLLMs)** with their applications on **Embodied AI** and **AI for Healthcare**. I am open to both collaborations and discussions, please feel free to send me an email. **Address: Room for State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University, 4th Floor, Founder Building.** 
 
 
 # 🔥 News
@@ -46,5 +46,5 @@ Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 - *2023.08* National College Student Information Security Contest First Prize.  
 
 # 💻 Internships
-- *2025.01 - Now*, research intern, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai, China. Mentor: Wenhui Lei, Shaoting Zhang.
+- *2025.01 - Now*, research intern, [Shanghai AI Laboratory)](https://www.shlab.org.cn/), Shanghai, China. Mentor: Wenhui Lei, Shaoting Zhang.
 - *2023.09 - 2024.09*, research intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), Beijing, China. Mentor: Lei Ma, Tiejun Huang.
