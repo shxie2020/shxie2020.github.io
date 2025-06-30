@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 Biography
-Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student at Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://idm.pku.edu.cn/sysgk/sysrygk.htm) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/sysgk/sysrygk.htm). I am also a visiting student of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+Hi! This is Shenghao Xie. I am currently a first-year Ph.D. student from [Insight Lab](https://www.maleilab.cn/fulllist), Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://www.maleilab.cn/pi) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/info/1017/1040.htm). I am also a visiting student of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My research interests focus on **Multimodal Large Language Models (MLLMs)** with their applications on **Embodied AI** and **AI for Healthcare**. I am open to both collaborations and discussions, please feel free to send me an email. **Address: Room for State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University, 4th Floor, Founder Building.** 
+My research interests focus on **multimodal foundation models**, especially in the area of **Embodied AI** and **AI for Healthcare**. I am open to both collaborations and discussions, please feel free to send me an email. **Address: Room for State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University, 4th Floor, Founder Building.** 
 
 
 # 🔥 News
@@ -32,11 +32,11 @@ My research interests focus on **Multimodal Large Language Models (MLLMs)** with
 
 **Embedded Visual Prompt Tuning**
 
-Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
+Wenqiang Zu*, **Shenghao Xie***, Qing Zhao*, Guoqi Li, Lei Ma†
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
 [**Code**](https://github.com/zuwenqiang/EPT)
-- Embed but not prepend, let's insert prompts into embedding channels! 
+- Embed but not prepend, try to concat prompts with embeddings in channels.
 </div>
 </div>
 
