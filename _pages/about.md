@@ -23,7 +23,7 @@ My research interests are primarily on **Generative Models**, as well as their a
 
 **Email: shxie2020@gmail.com/shenghaoxie@stu.pku.edu.cn**
 
-**Address: State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University, 4th Floor, Founder Building.** 
+**Address: St. Key Lab. of Mult. Inf. Proc., School of Computer Science, Peking University, 4th Floor, Founder Building.**
 
 
 # 🔥 News
