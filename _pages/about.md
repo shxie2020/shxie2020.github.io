@@ -27,7 +27,7 @@ My research interests are primarily on **Large Multimodal Models** with applicat
 
 
 # 🔥 News
-- *2025.9*: &nbsp;🎉🎉 Our paper "[*ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding*](https://arxiv.org/pdf/2506.01853)" is accepted by **NeurIPS 2025** as a spotlight paper.  
+- *2025.9*: &nbsp;🎉🎉 Our paper "[*ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding*](https://arxiv.org/pdf/2506.01853)" is accepted by **NeurIPS 2025** as a **spotlight** paper.  
 - *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024**.  
 
 # 📝 Selected Publications
