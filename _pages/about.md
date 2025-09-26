@@ -27,16 +27,30 @@ My research interests are primarily on **Large Multimodal Models** with applicat
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 AIFM Special Issue**.  
+- *2025.9*: &nbsp;🎉🎉 Our paper "[*ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding*](https://arxiv.org/pdf/2506.01853)" is accepted by **NeurIPS 2025** as a spotlight paper.  
+- *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024**.  
 
 # 📝 Selected Publications
-(__*__ denotes co-first author. __†__ denotes corresponding author. View the full publication list on my google scholar.)
+(__*__ denotes co-first author. __†__ denotes project leader. __☨__ denotes corresponding author. View the full publication list on my google scholar.)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='images/shapellmomni.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding**
+
+Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
+
+[**Paper**](https://arxiv.org/pdf/2506.01853) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/)
+- The first large 3D native multimodal model.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/EPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Embedded Visual Prompt Tuning**
 
-Wenqiang Zu\*, **Shenghao Xie***, Qing Zhao\*, Guoqi Li, Lei Ma†
+Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
 [**Code**](https://github.com/zuwenqiang/EPT)
