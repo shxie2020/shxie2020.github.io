@@ -52,17 +52,7 @@ Wenqiang Zu, **Shenghao Xie***, Hao Chen, Zhiqiang Chen, Liwen Hu, Yuanhao Xi, Y
 Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
 
 [**Paper**](https://arxiv.org/pdf/2506.01853) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
-[**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/)
-<span id="repo-stars"></span>
-<script>
-fetch("https://api.github.com/repos/JAMESYJL/ShapeLLM-Omni")
-  .then(response => response.json())
-  .then(data => {
-    const stars = data.stargazers_count;
-    document.getElementById("repo-stars").innerHTML = `⭐ ${stars} stars`;
-  })
-  .catch(err => console.error("GitHub API Error:", err));
-</script>
+[**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/) ⭐ 484 stars
 - The first large 3D native multimodal model.
 </div>
 </div>
