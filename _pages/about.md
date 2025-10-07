@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 👨‍🎓 Biography
-Hi! I am Shenghao Xie, a first-year Ph.D. student from [Insight Lab](https://www.maleilab.cn/fulllist), Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://www.maleilab.cn/pi) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/info/1017/1040.htm). I also study at [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, and spent a wonderful time at [HMI Lab](https://pku-hmi-lab.github.io/HMI-Web/), School of Computer Science, Peking University, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
+Hi! I am Shenghao Xie, a second-year Ph.D. student from [Insight Lab](https://www.maleilab.cn/fulllist), Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://www.maleilab.cn/pi) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/info/1017/1040.htm). I also study at [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, and spent a wonderful time at [HMI Lab](https://pku-hmi-lab.github.io/HMI-Web/), School of Computer Science, Peking University, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My research interests are primarily on **Large Multimodal Models** with applications on **Embodied Intelligence** and **AI for Science**. I am open to both collaborations and discussions, please feel free to reach me out. 
+My research interests are primarily on **Deep Generative Models** and their applications to **Robotics** and **Medical Image Analysis**. I am open to both collaborations and discussions, please feel free to reach me out. 
 
 **Email: shxie2020@gmail.com/shenghaoxie@stu.pku.edu.cn**
 
@@ -28,10 +28,22 @@ My research interests are primarily on **Large Multimodal Models** with applicat
 
 # 🔥 News
 - *2025.9*: &nbsp;🎉🎉 Our paper "[*ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding*](https://arxiv.org/pdf/2506.01853)" is accepted by **NeurIPS 2025** as a **spotlight**.  
-- *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024**.  
+- *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 AIFM Special Issue**.  
 
 # 📝 Selected Publications
 (__*__ denotes co-first author. __†__ denotes project leader. __☨__ denotes corresponding author. View the full publication list on my google scholar.)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RIFT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Exploring Representation Invariance in Finetuning**
+
+Wenqiang Zu, **Shenghao Xie***, Hao Chen, Zhiqiang Chen, Liwen Hu, Yuanhao Xi, Yiming Liang, Junliang Ye, Bo Lei, Tiejun Huang, Guoqi Li, Lei Ma
+
+[**Paper**](https://arxiv.org/pdf/2503.07399) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
+- Endow finetuning with both generalization and adaptation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='images/shapellmomni.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,6 +53,16 @@ Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
 
 [**Paper**](https://arxiv.org/pdf/2506.01853) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
 [**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/)
+<span id="repo-stars"></span>
+<script>
+fetch("https://api.github.com/repos/JAMESYJL/ShapeLLM-Omni")
+  .then(response => response.json())
+  .then(data => {
+    const stars = data.stargazers_count;
+    document.getElementById("repo-stars").innerHTML = `⭐ ${stars} stars`;
+  })
+  .catch(err => console.error("GitHub API Error:", err));
+</script>
 - The first large 3D native multimodal model.
 </div>
 </div>
