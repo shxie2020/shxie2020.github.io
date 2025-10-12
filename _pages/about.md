@@ -35,7 +35,7 @@ My research interests are primarily on **Deep Generative Models** and their appl
 Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
 
 [**Paper**](https://arxiv.org/pdf/2506.01853) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
-[**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/) ⭐ 400+ stars
+[**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/) ⭐ 100+ stars
 - The first large 3D native multimodal model.
 </div>
 </div>
