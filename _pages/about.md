@@ -22,8 +22,8 @@ Hi! I am Shenghao Xie, a second-year Ph.D. student from [Insight Lab](https://ww
 My research interests are primarily on **Deep Generative Models** and their applications to **Robotics** and **Medical Image Analysis**. I am open to both collaborations and discussions, please feel free to reach me out. 
 
 # 🔥 News
-- *2025.9*: &nbsp;Our paper: "[*ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding*](https://arxiv.org/pdf/2506.01853)" is accepted by **NeurIPS 2025 (Spotlight)**!
-- *2024.10*: &nbsp;Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 (AIFM Special Issue)**!  
+- *2025.9*: &nbsp;🎉 Our paper: "[*ShapeLLM-Omni*](https://arxiv.org/pdf/2506.01853)" is accepted by **NeurIPS 2025 (Spotlight)**!
+- *2024.10*: &nbsp;🎉 Our paper "[*EPT*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 (AIFM Special Issue)**!  
 
 # 📝 Selected Publications
 (__*__ denotes co-first author. __†__ denotes project leader. __☨__ denotes corresponding author. View the full publication list on google scholar.)
@@ -40,7 +40,7 @@ Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RIFT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RIFT.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Representation Invariance in Finetuning**
@@ -52,7 +52,7 @@ Wenqiang Zu, **Shenghao Xie***, Hao Chen, Zhiqiang Chen, Liwen Hu, Yuanhao Xi, Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/EPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/EPT.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Embedded Visual Prompt Tuning**
