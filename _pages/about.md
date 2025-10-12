@@ -40,7 +40,7 @@ Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RIFT.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RIFT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Representation Invariance in Finetuning**
@@ -52,7 +52,7 @@ Wenqiang Zu, **Shenghao Xie***, Hao Chen, Zhiqiang Chen, Liwen Hu, Yuanhao Xi, Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/EPT.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/EPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Embedded Visual Prompt Tuning**
