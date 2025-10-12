@@ -26,7 +26,7 @@ My research interests are primarily on **Deep Generative Models** and their appl
 - *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 (AIFM Special Issue)**!  
 
 # 📝 Selected Publications
-(__*__ denotes co-first author. __†__ denotes project leader. __☨__ denotes corresponding author. View the full publication list on the google scholar.)
+(__*__ denotes co-first author. __†__ denotes project leader. __☨__ denotes corresponding author. View the full publication list on google scholar.)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='images/ShapeLLM-Omni.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
