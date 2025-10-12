@@ -21,14 +21,9 @@ Hi! I am Shenghao Xie, a second-year Ph.D. student from [Insight Lab](https://ww
 
 My research interests are primarily on **Deep Generative Models** and their applications to **Robotics** and **Medical Image Analysis**. I am open to both collaborations and discussions, please feel free to reach me out. 
 
-**Email: shxie2020@gmail.com/shenghaoxie@stu.pku.edu.cn**
-
-**Address: St. Key Lab. of Mult. Inf. Proc., School of Computer Science, Peking University, 4th Floor, Founder Building.**
-
-
 # 🔥 News
-- *2025.9*: &nbsp;🎉🎉 Our paper "[*ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding*](https://arxiv.org/pdf/2506.01853)" is accepted by **NeurIPS 2025** as a **spotlight**.  
-- *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 AIFM Special Issue**.  
+- *2025.9*: &nbsp;🎉🎉 Our paper: "[*ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding*](https://arxiv.org/pdf/2506.01853)" is accepted by **NeurIPS 2025 (Spotlight)**!
+- *2024.10*: &nbsp;🎉🎉 Our paper "[*Embedded Visual Prompt Tuning*](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X)" is accepted by **MIA 2024 (AIFM Special Issue)**!  
 
 # 📝 Selected Publications
 (__*__ denotes co-first author. __†__ denotes project leader. __☨__ denotes corresponding author. View the full publication list on my google scholar.)
