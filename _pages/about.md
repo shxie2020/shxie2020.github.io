@@ -52,7 +52,7 @@ Wenqiang Zu, **Shenghao Xie***, Hao Chen, Zhiqiang Chen, Liwen Hu, Yuanhao Xi, Y
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024</div><img src='images/EPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024 (AIFM Special Issue)</div><img src='images/EPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Embedded Visual Prompt Tuning**
@@ -61,14 +61,14 @@ Wenqiang Zu, **Shenghao Xie***, Qing Zhao, Guoqi Li, Lei Ma
 
 [**Paper**](https://www.sciencedirect.com/science/article/abs/pii/S136184152400183X) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
 [**Code**](https://github.com/zuwenqiang/EPT)
-- Embed but not prepend, try to concat prompts with embeddings in channels.
+- Embed but not prepend.
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* Wuhan University Outstanding Bachelor's Degree Thesis.
-- *2023.11* Lei Jun Computer Science Undergraduate Scholarship.
-- *2023.08* National College Student Information Security Contest First Prize.  
+- *2024.06* Outstanding Bachelor's Degree Thesis, Wuhan University.
+- *2023.11* Lei Jun Computer Science Undergraduate Scholarship, Wuhan University.
+- *2023.08* First Prize, National College Student Information Security Contest.  
 
 # 💻 Internships
 - *2023.09 - 2024.09*, research intern, [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/), Beijing, China. Mentor: Lei Ma, Tiejun Huang.
