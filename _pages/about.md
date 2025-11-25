@@ -19,7 +19,7 @@ redirect_from:
 # 👨‍🎓 Biography
 Hi! I am Shenghao Xie, a second-year Ph.D. student from [Insight Lab](https://www.maleilab.cn/fulllist), Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://www.maleilab.cn/pi) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/info/1017/1040.htm). I also study at [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, and spent a wonderful time at [HMI Lab](https://pku-hmi-lab.github.io/HMI-Web/), School of Computer Science, Peking University, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My research interests are primarily on **Large Multimodal Models** and their applications to **Robotics** and **Medical Image Analysis**. I am open to both collaborations and discussions, please feel free to reach me out. 
+My research interests are primarily on **Generative Models** and their applications on **Embodied AI** and **Neuroscience**. I am open to both collaborations and discussions, please feel free to reach me out. 
 
 # 🔥 News
 - *2025.9*: &nbsp;🎉 Our work [*ShapeLLM-Omni*](https://arxiv.org/pdf/2506.01853) is accepted by **NeurIPS 2025 (Spotlight)**!
@@ -35,7 +35,7 @@ My research interests are primarily on **Large Multimodal Models** and their app
 Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
 
 [**Paper**](https://arxiv.org/pdf/2506.01853) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
-[**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/) ⭐ 100+ stars
+[**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/) ⭐ 500+ stars
 - The first large 3D native multimodal model.
 </div>
 </div>
