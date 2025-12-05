@@ -19,7 +19,7 @@ redirect_from:
 # 👨‍🎓 Biography
 Hi! I am Shenghao Xie, a second-year Ph.D. student from [Insight Lab](https://www.maleilab.cn/fulllist), Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://www.maleilab.cn/pi) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/info/1017/1040.htm). I also study at [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, and spent a wonderful time at [HMI Lab](https://pku-hmi-lab.github.io/HMI-Web/), School of Computer Science, Peking University, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My research interests are primarily on **Generative Models** and their applications on **Embodied AI** and **AI for Science**. 
+My research interests are primarily on **Large Multimodal Models** and their applications on **Embodied AI** and **AI for Science**. 
 
 I am open to both collaborations and discussions, please feel free to reach me out. 
 
@@ -29,19 +29,6 @@ I am open to both collaborations and discussions, please feel free to reach me o
 
 # 📝 Selected Publications
 (__*__ denotes co-first author. __†__ denotes project leader. __☨__ denotes corresponding author. View the full publication list on google scholar.)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='images/ShapeLLM-Omni.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding**
-
-Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
-
-[**Paper**](https://arxiv.org/pdf/2506.01853) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
-[**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/) ⭐ 500+ stars
-- The first large 3D native multimodal model.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RIFT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,6 +43,19 @@ Wenqiang Zu, **Shenghao Xie***, Hao Chen, Zhiqiang Chen, Liwen Hu, Yuanhao Xi, Y
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MIA 2024 (AIFM Special Issue)</div><img src='images/EPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 (Spotlight)</div><img src='images/ShapeLLM-Omni.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding**
+
+Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
+
+[**Paper**](https://arxiv.org/pdf/2506.01853) <strong><span class='show_paper_citations' data='hcrnA7sAAAAJ:2osOgNQ5qMEC'></span></strong>
+[**Code**](https://github.com/JAMESYJL/ShapeLLM-Omni/) ⭐ 500+ stars
+- The first large 3D native multimodal model.
+</div>
+</div>
 
 **Embedded Visual Prompt Tuning**
 
