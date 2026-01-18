@@ -19,7 +19,7 @@ redirect_from:
 # 👨‍🎓 Biography
 Hi! I am Shenghao Xie, a second-year Ph.D. student from [Insight Lab](https://www.maleilab.cn/fulllist), Academy for Advanced Interdisciplinary Studies, Peking University, working with [Prof. Lei Ma](https://www.maleilab.cn/pi) and [Prof. Tiejun Huang](https://idm.pku.edu.cn/info/1017/1040.htm). I also study at [TSAIL Group](https://ml.cs.tsinghua.edu.cn/), Department of Computer Science and Technology, Tsinghua University, advised by [Prof. Hang Su](https://www.suhangss.me/) and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). Previously, I received my B.E. degree from School of Cyber Science and Engineering, Wuhan University in 2024, and spent a wonderful time at [HMI Lab](https://pku-hmi-lab.github.io/HMI-Web/), School of Computer Science, Peking University, supervised by [Prof. Shanghang Zhang](https://www.shanghangzhang.com/).
 
-My research interests are primarily on **Large Multimodal Models** and their applications on **Embodied AI** and **AI for Science**. 
+My research interests are primarily on **Multimodal Large Language Models (MLLMs)**, **Embodied AI** and **AI for Science**. 
 
 I am open to both collaborations and discussions, please feel free to reach me out. 
 
@@ -42,7 +42,7 @@ Junliang Ye, Zhengyi Wang, Ruowen Zhao, **Shenghao Xie**, Jun Zhu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/RIFT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv Preprint</div><img src='images/RIFT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Representation Invariance in Finetuning**
